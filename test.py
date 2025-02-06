@@ -5,7 +5,7 @@ import hashlib
 import requests
 
 # Hardcoded credentials
-USERNAME = "admin"
+USERNAME = "admin
 PASSWORD = "password123sadfds"  # Storing passwords in plaintext is bad!
 
 # Global variable misuse
