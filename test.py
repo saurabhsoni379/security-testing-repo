@@ -6,7 +6,7 @@ import requests
 
 # Hardcoded credentials
 USERNAME = "admin"
-PASSWORD = "password123"  # Storing passwords in plaintext is bad!
+PASSWORD = "password123sadfds"  # Storing passwords in plaintext is bad!
 
 # Global variable misuse
 global db_connection
